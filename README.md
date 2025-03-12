@@ -3,8 +3,7 @@
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/teccsley) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=teccsley&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=teccsley&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teccsley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
