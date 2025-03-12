@@ -1,5 +1,11 @@
 ## Hi im ace
+- Systems Administrator at a small company in New York City
+- Aspiring backend developer
+- Currently balancing college—sometimes full-time, sometimes part-time—with work
+- Proudly from Haiti 🇭🇹
+- Passionate about contributing to open source projects, inspired by the collaborative spirit of the community
 
+  
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/teccsley) 
 
