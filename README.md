@@ -4,6 +4,7 @@
 - Currently balancing college sometimes full-time and sometimes part-time.
 - Proudly from Haiti 🇭🇹
 - Passionate about contributing to open source projects, inspired by the collaborative spirit of the community
+-  I want to be as good if not better then anyone reading this
 
   
 ## 🌐 Socials:
